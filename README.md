@@ -18,9 +18,9 @@
 
 #### Forms
 
-[8. Lorem Ipsum Generator]
-[9. Color Shades Generator]
-[10. Grocery Bud]
+[8. Lorem Ipsum Generator]  
+[9. Color Shades Generator]  
+[10. Grocery Bud]  
 
 #### useRef
 
@@ -28,8 +28,8 @@
 
 #### useContext
 
-[12. Modal and Sidebar]
-[7. Stripe Menu]
+[12. Modal and Sidebar]  
+[13. Stripe Menu]
 
 #### useReducer and useContext
 
