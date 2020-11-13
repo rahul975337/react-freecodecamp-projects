@@ -7,12 +7,12 @@
 
 #### useEffect and Conditional Rendering
 
-[2. Tours](https://tours-rt.netlify.app)
-[3. Reviews](https://reviews-rt.netlify.app)
-[4. Accordion](https://accordion-rt.netlify.app)
-[5. Menu](https://menu-rt.netlify.app)
-[6. Tabs](https://tabs-rt.netlify.app)
-[7. Slider](https://slider-rt.netlify.app)
+[2. Tours](https://tours-rt.netlify.app)  
+[3. Reviews](https://reviews-rt.netlify.app)  
+[4. Accordion](https://accordion-rt.netlify.app)  
+[5. Menu](https://menu-rt.netlify.app)  
+[6. Tabs](https://tabs-rt.netlify.app)  
+[7. Slider](https://slider-rt.netlify.app)  
 
 
 
