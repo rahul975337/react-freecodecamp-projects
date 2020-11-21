@@ -3,36 +3,38 @@
 
 #### useState
 
-1. Birthday Reminder
+[1. Birthday Reminder](https://birthday-reminder-rt.netlify.app)
 
 #### useEffect and Conditional Rendering
 
-2. Tours
-3. Reviews
-4. Questions
-5. Menu
-6. Tabs
-7. Stripe Menu
-8. Slider
+[2. Tours](https://tours-rt.netlify.app)  
+[3. Reviews](https://reviews-rt.netlify.app)  
+[4. Accordion](https://accordion-rt.netlify.app)  
+[5. Menu](https://menu-rt.netlify.app)  
+[6. Tabs](https://tabs-rt.netlify.app)  
+[7. Slider](https://slider-rt.netlify.app)  
+
+
 
 #### Forms
 
-9. Lorem Ipsum Generator
-10. Color Shades Generator
-11. Grocery Bud
+[8. Lorem Ipsum Generator]()  
+[9. Color Shades Generator]()  
+[10. Grocery Bud]()  
 
 #### useRef
 
-12. Navbar
+[11. Navbar]()
 
 #### useContext
 
-13. Modal and Sidebar
+[12. Modal and Sidebar]()  
+[13. Stripe Menu]()
 
 #### useReducer and useContext
 
-14. Cart
+[14. Cart]()
 
 #### React Router and useCallback
 
-15. Cocktails
+[15. Cocktails]()
